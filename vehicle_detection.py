@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1T7QV-4YFUmZEJpI0VI8h9FOC3735MMN-
 """
 
-!pip install opencv-python numpy
-!pip install ultralytics
-!pip install gradio ultralytics opencv-python matplotlib
+pip install opencv-python numpy
+pip install ultralytics
+pip install gradio ultralytics opencv-python matplotlib
 
 import gradio as gr
 import os
